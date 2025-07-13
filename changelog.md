@@ -1,7 +1,9 @@
-✰ ZuiTranslator V3.1.4 Release: Routine update ✰  
+✰ ZuiTranslator V3.1.5 Release ✰  
 ➳ What's New in the Release:  
 
-❦ **Enhancements and Fixes in Translations and Functionality:**  
+❦ **Changes in this release:**  
 
-- **ZUI 15 and ZUI 16**: **LeFiles** (ZuiFileManager) has been updated to the latest version.
-- **ZUI 16**: **ZuiGallery** has been updated and edits added.
+- Improved logic for recognizing and converting device names into Latin script, with support for some new devices.
+
+P.s.: The contact for feedback has also been changed. 
+Спасибо всем, кто искренне поддерживал проект. К сожалению, у меня иссякли силы, время и мотивация для его дальнейшего развития. Возможно, будут редкие мелкие обновления, но версия 3.0+ стала моим последним крупным вкладом. Если в будущем появится необходимость — вы вправе продолжать проект самостоятельно. Модуль и так отлично работает даже на последних версиях ZUI. Ещё раз — спасибо вам!
